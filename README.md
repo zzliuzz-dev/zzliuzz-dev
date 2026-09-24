@@ -2,7 +2,7 @@
 
  - Estudande de `Ciencia da Computacão`
  - Buscando atuar como `Cibersegurança`
- - Atualmente aprofundando meus conhecimentos em `Programaçao Front-End`
+ - Atualmente aprofundando meus conhecimentos em `Programação Front-End e Back-End`
   
 ## Tecnologias e Ferramentas
 
@@ -19,14 +19,15 @@
 
 ## Meu Roadmap (Próximos 6 Meses)
 - [x] Melhorar meu nivel de inglês para leitura
-- [ ] Criar meu README de perfil no Github
-- [ ] Subir 2 projetos no Github
+- [x] Criar meu README de perfil no Github
+- [x] Subir 2 projetos no Github
   
 ## Projetos em Destaque
 
-  | projeto | Descrição | Stack Principal |
+  | Projeto | Descrição | Stack Principal |
   | --- | --- | --- |
   | [Exec2](https://github.com/zzliuzz-dev/Exercicios_C/blob/main/Exec2.C) | `Projeto para descobrir a renda liquida e quantos salarios minimos a renda representa.` | `Linguagem C` | 
+  | [Exec3](https://github.com/zzliuzz-dev/Exercicios_C/blob/main/Sprint1.C) | `Projeto para Gerenciamento de Escala para Eco-Voluntarios` | `Linguagem C` |
 
 ## Como Falar Comigo
   - [Linkedin] (https://www.linkedin.com/in/joão-alex-177a3b42a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
